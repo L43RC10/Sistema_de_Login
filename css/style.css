@@ -1,0 +1,13 @@
+
+*{box-sizing: border-box;}
+body{margin: 0; padding: 0; background-color: #333;}
+.login-form {
+    width: 350px; 
+    background-color: #F8F8FF; 
+    margin-top: 120px; 
+    border-radius: 5px; 
+    padding: 20px;}
+button{width: 100%;}
+
+/* FONTES:
+TABELA DE CORES - https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb */

@@ -8,7 +8,7 @@ function logar(){
         alert('Logado!');
         localStorage.setItem("acesso", true);
 
-        window.location.assign("index.html");
+        window.location.href = "index.html";
     } else {
         alert("Usuário ou senha inválidos!");
     }
